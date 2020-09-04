@@ -1,6 +1,8 @@
 ## Inkeeper Bot
 
-Discord bot that searches [howlongtobeat](https://howlongtobeat.com) for information regarding videogame completion times and [IMDb](https://imdb.com) for information regarding movie descriptions, release date, director(s) and ratings. This bot was developed in a short period of time to test the Discord bot creation process and the Python API libraries used.
+A simple Discord bot that searches [howlongtobeat](https://howlongtobeat.com) for information regarding videogame completion times and [IMDb](https://imdb.com) for information regarding movie descriptions, release date, director(s) and ratings. This bot was developed in a short period of time to test the Discord bot creation process and the Python API libraries used.
+
+Bot currently hosted on [heroku](https:heroku.com)
 
 ### Commands
 - !help
