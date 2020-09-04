@@ -2,4 +2,4 @@ git+https://github.com/Rapptz/discord.py
 howlongtobeatpy
 requests
 omdb
-dotenv
+python-dotenv
