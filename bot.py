@@ -1,5 +1,4 @@
 import os
-import random
 import discord
 import requests
 import omdb
@@ -56,7 +55,7 @@ async def howlongtobeat(ctx, *game_full_name):
 
     await ctx.send(embed=embed)
 
-@bot.command(name='movie', help='Responds with information obtained from metacritic')
+@bot.command(name='movie', help='Responds with movie information obtained from imdb')
 async def imdb(ctx, *movie_full_name):
     movie = ''
 
