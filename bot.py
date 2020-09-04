@@ -8,7 +8,6 @@ from discord.ext import commands
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
-GUILD = os.getenv('DISCORD_GUILD')
 API_KEY = os.getenv('API_KEY')
 
 omdb.set_default('apikey', API_KEY)
